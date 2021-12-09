@@ -1,0 +1,18 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql://anees:ark@localhost/coding",
+        "proud_uri": "mysql://anees:ark@localhost/coding",
+        "fb_url": "https:facebook.com/coding",
+        "tw_url": "https:twitter.com/coding",
+        "gh_url": "https:github.com/coding",
+        "blog_name": "WELCOME",
+        "headname": "PHARMACY SUPPLY MANAGEMENT",
+        "gmail-user": "aneesurrehman423@gmail.com",
+        "gmail-password": "banees.n",
+        "user": "ark",
+        "password": "arkpro",
+        "login_image": "aple.jpg"
+
+    }
+}
